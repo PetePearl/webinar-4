@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400&family=Roboto:wght@100&display=swap');
+@import url("blocks/wrapper/wrapper.css");
+@import url('blocks/card/card.css');
+@import url('blocks/card/__background/card__background.css');
+@import url('blocks/card/__content/card__content.css');
+@import url('blocks/card/__description/card__description.css');
+@import url('blocks/card/__image/card__image.css');
+@import url('blocks/card/__info/card__info.css');
+@import url('blocks/card/__label/card__label.css');
+@import url('blocks/card/__link/card__link.css');
+@import url('blocks/card/__title/card__title.css');
+@import url('blocks/width/width.css');
+@import url('blocks/header/header.css');
+@import url('blocks/search/search.css');
+@import url('blocks/menu/menu.css');
+@import url('blocks/grid/grid.css');
+@import url('blocks/label/label.css');
+
+
+

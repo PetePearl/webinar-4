@@ -1,0 +1,21 @@
+.menu {
+    display: flex;
+}
+.menu__item {
+    font-size: 14px;
+    line-height: 18px;
+    color: inherit;
+    margin: 0 19px;
+    text-decoration: none;
+}
+
+.menu__item:hover {
+    text-decoration: underline;
+}
+
+.menu__item:first-child {
+    margin-left: 0;
+}
+.menu__item:last-child {
+    margin-right: 0;
+}

@@ -1,0 +1,8 @@
+.search {
+    color: #929eaf;
+    transition: color .2s;
+}
+
+.search:hover {
+    color: #ffffff;
+}
